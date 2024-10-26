@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\bin\Debug\net8.0\Create-methods-in-C#-console-applications.exe
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\bin\Debug\net8.0\Create-methods-in-C#-console-applications.deps.json
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\bin\Debug\net8.0\Create-methods-in-C#-console-applications.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\bin\Debug\net8.0\Create-methods-in-C#-console-applications.dll
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\bin\Debug\net8.0\Create-methods-in-C#-console-applications.pdb
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\obj\Debug\net8.0\Create-methods-in-C#-console-applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\obj\Debug\net8.0\Create-methods-in-C#-console-applications.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\obj\Debug\net8.0\Create-methods-in-C#-console-applications.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\obj\Debug\net8.0\Create-methods-in-C#-console-applications.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\obj\Debug\net8.0\Create-methods-in-C#-console-applications.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\obj\Debug\net8.0\Create-methods-in-C#-console-applications.dll
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\obj\Debug\net8.0\refint\Create-methods-in-C#-console-applications.dll
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\obj\Debug\net8.0\Create-methods-in-C#-console-applications.pdb
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\obj\Debug\net8.0\Create-methods-in-C#-console-applications.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-methods-in-C#-console-applications\obj\Debug\net8.0\ref\Create-methods-in-C#-console-applications.dll
