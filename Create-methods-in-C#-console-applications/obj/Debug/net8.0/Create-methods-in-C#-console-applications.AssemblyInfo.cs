@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Create-methods-in-C#-console-applications")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30cabdc1736f3f79aabebc4d2206df2800464c3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f824debf8405a5e9763061f4fdf68e6a0dae04bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Create-methods-in-C#-console-applications")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Create-methods-in-C#-console-applications")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
