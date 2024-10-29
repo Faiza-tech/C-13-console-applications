@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\bin\Debug\net8.0\Create-C#-methods-with-parameters.exe
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\bin\Debug\net8.0\Create-C#-methods-with-parameters.deps.json
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\bin\Debug\net8.0\Create-C#-methods-with-parameters.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\bin\Debug\net8.0\Create-C#-methods-with-parameters.dll
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\bin\Debug\net8.0\Create-C#-methods-with-parameters.pdb
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\obj\Debug\net8.0\Create-C#-methods-with-parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\obj\Debug\net8.0\Create-C#-methods-with-parameters.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\obj\Debug\net8.0\Create-C#-methods-with-parameters.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\obj\Debug\net8.0\Create-C#-methods-with-parameters.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\obj\Debug\net8.0\Create-C#-methods-with-parameters.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\obj\Debug\net8.0\Create-C#-methods-with-parameters.dll
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\obj\Debug\net8.0\refint\Create-C#-methods-with-parameters.dll
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\obj\Debug\net8.0\Create-C#-methods-with-parameters.pdb
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\obj\Debug\net8.0\Create-C#-methods-with-parameters.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\C-13-console-applications\Create-C#-methods-with-parameters\obj\Debug\net8.0\ref\Create-C#-methods-with-parameters.dll
