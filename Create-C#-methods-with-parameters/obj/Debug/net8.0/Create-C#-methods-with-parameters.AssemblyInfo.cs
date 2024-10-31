@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Create-C#-methods-with-parameters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a510210916bb6b15e6856173ed9eac39fa4d537")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28cbfd89cad1dc541314ca3793222f57816b8cf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Create-C#-methods-with-parameters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Create-C#-methods-with-parameters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

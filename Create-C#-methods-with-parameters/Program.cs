@@ -41,3 +41,105 @@ displayAdjustedTimes(schedule, 6, -6);
 
 Console.WriteLine("**********************");
 
+string[] students = { "Jenna", "Ayesha", "Carlos", "Viktor" };
+
+void displayStudent(string[] students)
+{
+    foreach (string student in students)
+    {
+        Console.WriteLine(student);
+    }
+}
+
+displayStudent(students);
+displayStudent(new string[] { "zara", "sara" });
+
+Console.WriteLine("**********************");
+
+double pi = 3.14;
+
+void circleArea(int radius)
+{
+    double area = pi * (radius * radius);
+    Console.WriteLine($"Area = {area}");
+}
+
+//circleArea(12);
+
+void CircleCircumference(int radius)
+{
+    double circumference = 2 * pi * radius;
+    Console.WriteLine($"Circumference = {circumference}");
+}
+//CircleCircumference(24);
+
+
+void printCircle(int radius)
+{
+    Console.WriteLine($"Circle with radius {radius}");
+    circleArea(radius);
+    CircleCircumference(radius);
+}
+
+printCircle(12);
+printCircle(24);
+
+Console.WriteLine("**********************");
+
+// Test pass by value
+int a = 3;
+int b = 4;
+int c = 0;
+
+void multiply(int a, int b, int c)
+{
+    c = a * b;
+    Console.WriteLine($"inside Multiply method: {a} x {b} = {c}");
+}
+
+multiply(a, b, c);
+Console.WriteLine($"global statement: {a} x {b} = {c}");
+
+
+Console.WriteLine("**********************");
+// Test pass by reference
+
+int[] array = { 1, 2, 3, 4, 5 };
+
+void printArray(int[] array)
+{
+
+    foreach (int i in array)
+    {
+        Console.Write("Array values are: " + i);
+    }
+    Console.WriteLine();
+}
+
+printArray(array);
+
+void clear(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        array[i] = 0;
+    }
+}
+
+clear(array);
+printArray(array);
+
+Console.WriteLine("**********************");
+//Test with strings
+
+string status = "Healthy";
+
+Console.WriteLine($"Start: {status}");
+SetHealth(status, false);
+Console.WriteLine($"End: {status}");
+
+void SetHealth(string status, bool isHealthy)
+{
+    status = isHealthy ? "Healthy" : "Unhealthy";
+    Console.WriteLine($"Middle: {status}");
+}
